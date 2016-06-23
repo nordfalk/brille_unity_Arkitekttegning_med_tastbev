@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: e9eb0da745be54f5a8641172167458c5
+timeCreated: 1466681078
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: $RelAggregates
+    100002: $RelAggregates 1
+    100004: $RelAggregates 2
+    100006: $RelAggregates 3
+    100008: $RelVoidsElement
+    100010: $RelVoidsElement 1
+    100012: $RelVoidsElement 10
+    100014: $RelVoidsElement 11
+    100016: $RelVoidsElement 12
+    100018: $RelVoidsElement 13
+    100020: $RelVoidsElement 14
+    100022: $RelVoidsElement 15
+    100024: $RelVoidsElement 16
+    100026: $RelVoidsElement 17
+    100028: $RelVoidsElement 18
+    100030: $RelVoidsElement 2
+    100032: $RelVoidsElement 3
+    100034: $RelVoidsElement 4
+    100036: $RelVoidsElement 5
+    100038: $RelVoidsElement 6
+    100040: $RelVoidsElement 7
+    100042: $RelVoidsElement 8
+    100044: $RelVoidsElement 9
+    100046: //RootNode
+    100048: IfcBuilding__1qZdL4UFL2dRj5HEtl0RcW
+    100050: IfcBuildingElementProxy_BREAKINGGROUND:BREAKINGGROUND:619939_3IeeJdkd58ZxkJdtd3EBXw
+    100052: IfcBuildingElementProxy_FOOTPRINT:FOOTPRINT:621548_34WDWwIIr72ugaFmtXrfcv
+    100054: IfcBuildingElementProxy_GROUNDWORK:GROUNDWORK:620685_3IeeJdkd58ZxkJdtd3EBLK
+    100056: IfcBuildingStorey_Level0_1qZdL4UFL2dRj5HEqGzhc5
+    100058: IfcBuildingStorey_Level1_1qZdL4UFL2dRj5HEqG$aS2
+    100060: IfcBuildingStorey_Level2_1qZdL4UFL2dRj5HEqG$To6
+    100062: IfcBuildingStorey_Level3_1qZdL4UFL2dRj5HEqGzreu
+    100064: IfcMappedItem
+    100066: IfcMappedItem 1
+    100068: IfcMappedItem 10
+    100070: IfcMappedItem 11
+    100072: IfcMappedItem 12
+    100074: IfcMappedItem 13
+    100076: IfcMappedItem 14
+    100078: IfcMappedItem 2
+    100080: IfcMappedItem 3
+    100082: IfcMappedItem 4
+    100084: IfcMappedItem 5
+    100086: IfcMappedItem 6
+    100088: IfcMappedItem 7
+    100090: IfcMappedItem 8
+    100092: IfcMappedItem 9
+    100094: IfcMappedItem_0
+    100096: IfcMappedItem_0 1
+    100098: IfcMappedItem_0 10
+    100100: IfcMappedItem_0 11
+    100102: IfcMappedItem_0 2
+    100104: IfcMappedItem_0 3
+    100106: IfcMappedItem_0 4
+    100108: IfcMappedItem_0 5
+    100110: IfcMappedItem_0 6
+    100112: IfcMappedItem_0 7
+    100114: IfcMappedItem_0 8
+    100116: IfcMappedItem_0 9
+    100118: IfcMappedItem_1
+    100120: IfcMappedItem_1 1
+    100122: IfcMappedItem_1 10
+    100124: IfcMappedItem_1 11
+    100126: IfcMappedItem_1 2
+    100128: IfcMappedItem_1 3
+    100130: IfcMappedItem_1 4
+    100132: IfcMappedItem_1 5
+    100134: IfcMappedItem_1 6
+    100136: IfcMappedItem_1 7
+    100138: IfcMappedItem_1 8
+    100140: IfcMappedItem_1 9
+    100142: IfcMappedItem_10
+    100144: IfcMappedItem_2
+    100146: IfcMappedItem_2 1
+    100148: IfcMappedItem_2 10
+    100150: IfcMappedItem_2 11
+    100152: IfcMappedItem_2 2
+    100154: IfcMappedItem_2 3
+    100156: IfcMappedItem_2 4
+    100158: IfcMappedItem_2 5
+    100160: IfcMappedItem_2 6
+    100162: IfcMappedItem_2 7
+    100164: IfcMappedItem_2 8
+    100166: IfcMappedItem_2 9
+    100168: IfcMappedItem_8
+    100170: IfcMappedItem_9
+    100172: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):585844_00N6u$FNTCIAO2GraWQLiC
+    100174: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):585844_0mEK1Knn55pP6LsiXYqYcc
+    100176: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):585914_00N6u$FNTCIAO2GraWQLq6
+    100178: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):585968_00N6u$FNTCIAO2GraWQLlj
+    100180: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):585968_0xw3bLVrHDgBJfNVz_e0x8
+    100182: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):586063_00N6u$FNTCIAO2GraWQLjy
+    100184: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):586063_00N6u$FNTCIAO2GraWQLvK
+    100186: IfcOpeningElement_Single-Light:12x12M2:586165:1_153J7VGuD6aflad1erw79Q
+    100188: IfcOpeningElement_Single-Light:12x12M2:586302:1_153J7VGuD6aflad1erw77H
+    100190: IfcOpeningElement_Single-Light:12x12M2:588098:1_23RU5KWTH9A8BtCNUHDLt_
+    100192: IfcOpeningElement_Single-Light:12x12M2:588249:1_23RU5KWTH9A8BtCNUHDLrb
+    100194: IfcOpeningElement_Single-Light:12x12M2:588371:1_23RU5KWTH9A8BtCNUHDLxl
+    100196: IfcOpeningElement_Single-Light:12x12M2:588451:1_23RU5KWTH9A8BtCNUHDLuV
+    100198: IfcOpeningElement_Single-Light:12x12M2:590067:1_2W_xzM4OD3heBG3CpQxNkQ
+    100200: IfcOpeningElement_Single-Light:12x12M2:590068:1_2W_xzM4OD3heBG3CpQxNkT
+    100202: IfcOpeningElement_Single-Light:12x12M2:590069:1_2W_xzM4OD3heBG3CpQxNkS
+    100204: IfcOpeningElement_Single-Light:12x12M2:590070:1_2W_xzM4OD3heBG3CpQxNkV
+    100206: IfcOpeningElement_Single-Light:12x12M2:590071:1_2W_xzM4OD3heBG3CpQxNkU
+    100208: IfcOpeningElement_Single-Light:12x12M2:590072:1_2W_xzM4OD3heBG3CpQxNkH
+    100210: IfcRoof_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0arw7A1
+    100212: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0erw7A1
+    100214: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0erw7A1_20
+    100216: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0irw7A1
+    100218: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0irw7A1_19
+    100220: IfcSlab_Floor:Generic-200mm(Interior)2:595994_1Ffd5Ql_zDBgSWuGw1g0E9
+    100222: IfcSlab_Floor:Generic-200mm(Interior)2:595994_1Ffd5Ql_zDBgSWuGw1g0E9_16
+    100224: IfcSlab_Floor:Generic-200mm(Interior)2:596186_1nnKgT9R95oRthT$xfRHAY
+    100226: IfcSlab_Floor:Generic-200mm(Interior)2:596186_1nnKgT9R95oRthT$xfRHAY_17
+    100228: IfcSlab_Floor:Generic-200mm(Interior)2:599254_1fxxwNrWf4ue$hTbqVb5DQ
+    100230: IfcSlab_Floor:Generic-200mm(Interior)2:599254_1fxxwNrWf4ue$hTbqVb5DQ_18
+    100232: IfcSlab_Floor:Generic-900mm:586351_0GhCXPFTr35eNRAOwOXnfF
+    100234: IfcSlab_Floor:Generic-900mm:586351_0GhCXPFTr35eNRAOwOXnfF_15
+    100236: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585844_153J7VGuD6aflad0arw7ER
+    100238: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585844_153J7VGuD6aflad0arw7ER_11
+    100240: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585914_153J7VGuD6aflad0arw7DL
+    100242: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585914_153J7VGuD6aflad0arw7DL_12
+    100244: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585968_153J7VGuD6aflad0arw7CV
+    100246: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585968_153J7VGuD6aflad0arw7CV_13
+    100248: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):586063_153J7VGuD6aflad0arw7AW
+    100250: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):586063_153J7VGuD6aflad0arw7AW_14
+    100252: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):592946_2brey9XW15JOm6hZFdOrmo
+    100254: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):592946_2brey9XW15JOm6hZFdOrmo_4
+    100256: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593011_2brey9XW15JOm6hZFdOrnp
+    100258: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593011_2brey9XW15JOm6hZFdOrnp_5
+    100260: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593079_2brey9XW15JOm6hZFdOrot
+    100262: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593079_2brey9XW15JOm6hZFdOrot_6
+    100264: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593140_2brey9XW15JOm6hZFdOrpq
+    100266: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593140_2brey9XW15JOm6hZFdOrpq_7
+    100268: IfcWallStandardCase_BasicWall:SHADE:615789_3WQi_iuKvBXO3W5bnp5yrZ
+    100270: IfcWallStandardCase_BasicWall:SHADE:615789_3WQi_iuKvBXO3W5bnp5yrZ_3
+    100272: IfcWallStandardCase_BasicWall:SHADE:616086_3WQi_iuKvBXO3W5bnp5ywO
+    100274: IfcWallStandardCase_BasicWall:SHADE:616086_3WQi_iuKvBXO3W5bnp5ywO_3
+    100276: IfcWallStandardCase_BasicWall:SHADE:616451_3WQi_iuKvBXO3W5bnp5y0D
+    100278: IfcWallStandardCase_BasicWall:SHADE:616451_3WQi_iuKvBXO3W5bnp5y0D_3
+    100280: IfcWallStandardCase_BasicWall:SHADE:616483_3WQi_iuKvBXO3W5bnp5y0j
+    100282: IfcWallStandardCase_BasicWall:SHADE:616483_3WQi_iuKvBXO3W5bnp5y0j_3
+    100284: IfcWindow_Single-Light:12x12M2:586165_153J7VGuD6aflad0arw79Q
+    100286: IfcWindow_Single-Light:12x12M2:586302_153J7VGuD6aflad0arw77H
+    100288: IfcWindow_Single-Light:12x12M2:588098_23RU5KWTH9A8BtCMIHDLt_
+    100290: IfcWindow_Single-Light:12x12M2:588249_23RU5KWTH9A8BtCMIHDLrb
+    100292: IfcWindow_Single-Light:12x12M2:588371_23RU5KWTH9A8BtCMIHDLxl
+    100294: IfcWindow_Single-Light:12x12M2:588451_23RU5KWTH9A8BtCMIHDLuV
+    100296: IfcWindow_Single-Light:12x12M2:590067_2W_xzM4OD3heBG3D$QxNkQ
+    100298: IfcWindow_Single-Light:12x12M2:590068_2W_xzM4OD3heBG3D$QxNkT
+    100300: IfcWindow_Single-Light:12x12M2:590069_2W_xzM4OD3heBG3D$QxNkS
+    100302: IfcWindow_Single-Light:12x12M2:590070_2W_xzM4OD3heBG3D$QxNkV
+    100304: IfcWindow_Single-Light:12x12M2:590071_2W_xzM4OD3heBG3D$QxNkU
+    100306: IfcWindow_Single-Light:12x12M2:590072_2W_xzM4OD3heBG3D$QxNkH
+    400000: $RelAggregates
+    400002: $RelAggregates 1
+    400004: $RelAggregates 2
+    400006: $RelAggregates 3
+    400008: $RelVoidsElement
+    400010: $RelVoidsElement 1
+    400012: $RelVoidsElement 10
+    400014: $RelVoidsElement 11
+    400016: $RelVoidsElement 12
+    400018: $RelVoidsElement 13
+    400020: $RelVoidsElement 14
+    400022: $RelVoidsElement 15
+    400024: $RelVoidsElement 16
+    400026: $RelVoidsElement 17
+    400028: $RelVoidsElement 18
+    400030: $RelVoidsElement 2
+    400032: $RelVoidsElement 3
+    400034: $RelVoidsElement 4
+    400036: $RelVoidsElement 5
+    400038: $RelVoidsElement 6
+    400040: $RelVoidsElement 7
+    400042: $RelVoidsElement 8
+    400044: $RelVoidsElement 9
+    400046: //RootNode
+    400048: IfcBuilding__1qZdL4UFL2dRj5HEtl0RcW
+    400050: IfcBuildingElementProxy_BREAKINGGROUND:BREAKINGGROUND:619939_3IeeJdkd58ZxkJdtd3EBXw
+    400052: IfcBuildingElementProxy_FOOTPRINT:FOOTPRINT:621548_34WDWwIIr72ugaFmtXrfcv
+    400054: IfcBuildingElementProxy_GROUNDWORK:GROUNDWORK:620685_3IeeJdkd58ZxkJdtd3EBLK
+    400056: IfcBuildingStorey_Level0_1qZdL4UFL2dRj5HEqGzhc5
+    400058: IfcBuildingStorey_Level1_1qZdL4UFL2dRj5HEqG$aS2
+    400060: IfcBuildingStorey_Level2_1qZdL4UFL2dRj5HEqG$To6
+    400062: IfcBuildingStorey_Level3_1qZdL4UFL2dRj5HEqGzreu
+    400064: IfcMappedItem
+    400066: IfcMappedItem 1
+    400068: IfcMappedItem 10
+    400070: IfcMappedItem 11
+    400072: IfcMappedItem 12
+    400074: IfcMappedItem 13
+    400076: IfcMappedItem 14
+    400078: IfcMappedItem 2
+    400080: IfcMappedItem 3
+    400082: IfcMappedItem 4
+    400084: IfcMappedItem 5
+    400086: IfcMappedItem 6
+    400088: IfcMappedItem 7
+    400090: IfcMappedItem 8
+    400092: IfcMappedItem 9
+    400094: IfcMappedItem_0
+    400096: IfcMappedItem_0 1
+    400098: IfcMappedItem_0 10
+    400100: IfcMappedItem_0 11
+    400102: IfcMappedItem_0 2
+    400104: IfcMappedItem_0 3
+    400106: IfcMappedItem_0 4
+    400108: IfcMappedItem_0 5
+    400110: IfcMappedItem_0 6
+    400112: IfcMappedItem_0 7
+    400114: IfcMappedItem_0 8
+    400116: IfcMappedItem_0 9
+    400118: IfcMappedItem_1
+    400120: IfcMappedItem_1 1
+    400122: IfcMappedItem_1 10
+    400124: IfcMappedItem_1 11
+    400126: IfcMappedItem_1 2
+    400128: IfcMappedItem_1 3
+    400130: IfcMappedItem_1 4
+    400132: IfcMappedItem_1 5
+    400134: IfcMappedItem_1 6
+    400136: IfcMappedItem_1 7
+    400138: IfcMappedItem_1 8
+    400140: IfcMappedItem_1 9
+    400142: IfcMappedItem_10
+    400144: IfcMappedItem_2
+    400146: IfcMappedItem_2 1
+    400148: IfcMappedItem_2 10
+    400150: IfcMappedItem_2 11
+    400152: IfcMappedItem_2 2
+    400154: IfcMappedItem_2 3
+    400156: IfcMappedItem_2 4
+    400158: IfcMappedItem_2 5
+    400160: IfcMappedItem_2 6
+    400162: IfcMappedItem_2 7
+    400164: IfcMappedItem_2 8
+    400166: IfcMappedItem_2 9
+    400168: IfcMappedItem_8
+    400170: IfcMappedItem_9
+    400172: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):585844_00N6u$FNTCIAO2GraWQLiC
+    400174: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):585844_0mEK1Knn55pP6LsiXYqYcc
+    400176: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):585914_00N6u$FNTCIAO2GraWQLq6
+    400178: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):585968_00N6u$FNTCIAO2GraWQLlj
+    400180: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):585968_0xw3bLVrHDgBJfNVz_e0x8
+    400182: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):586063_00N6u$FNTCIAO2GraWQLjy
+    400184: IfcOpeningElement_BasicWall:Generic-400mm(Exterior):586063_00N6u$FNTCIAO2GraWQLvK
+    400186: IfcOpeningElement_Single-Light:12x12M2:586165:1_153J7VGuD6aflad1erw79Q
+    400188: IfcOpeningElement_Single-Light:12x12M2:586302:1_153J7VGuD6aflad1erw77H
+    400190: IfcOpeningElement_Single-Light:12x12M2:588098:1_23RU5KWTH9A8BtCNUHDLt_
+    400192: IfcOpeningElement_Single-Light:12x12M2:588249:1_23RU5KWTH9A8BtCNUHDLrb
+    400194: IfcOpeningElement_Single-Light:12x12M2:588371:1_23RU5KWTH9A8BtCNUHDLxl
+    400196: IfcOpeningElement_Single-Light:12x12M2:588451:1_23RU5KWTH9A8BtCNUHDLuV
+    400198: IfcOpeningElement_Single-Light:12x12M2:590067:1_2W_xzM4OD3heBG3CpQxNkQ
+    400200: IfcOpeningElement_Single-Light:12x12M2:590068:1_2W_xzM4OD3heBG3CpQxNkT
+    400202: IfcOpeningElement_Single-Light:12x12M2:590069:1_2W_xzM4OD3heBG3CpQxNkS
+    400204: IfcOpeningElement_Single-Light:12x12M2:590070:1_2W_xzM4OD3heBG3CpQxNkV
+    400206: IfcOpeningElement_Single-Light:12x12M2:590071:1_2W_xzM4OD3heBG3CpQxNkU
+    400208: IfcOpeningElement_Single-Light:12x12M2:590072:1_2W_xzM4OD3heBG3CpQxNkH
+    400210: IfcRoof_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0arw7A1
+    400212: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0erw7A1
+    400214: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0erw7A1_20
+    400216: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0irw7A1
+    400218: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0irw7A1_19
+    400220: IfcSlab_Floor:Generic-200mm(Interior)2:595994_1Ffd5Ql_zDBgSWuGw1g0E9
+    400222: IfcSlab_Floor:Generic-200mm(Interior)2:595994_1Ffd5Ql_zDBgSWuGw1g0E9_16
+    400224: IfcSlab_Floor:Generic-200mm(Interior)2:596186_1nnKgT9R95oRthT$xfRHAY
+    400226: IfcSlab_Floor:Generic-200mm(Interior)2:596186_1nnKgT9R95oRthT$xfRHAY_17
+    400228: IfcSlab_Floor:Generic-200mm(Interior)2:599254_1fxxwNrWf4ue$hTbqVb5DQ
+    400230: IfcSlab_Floor:Generic-200mm(Interior)2:599254_1fxxwNrWf4ue$hTbqVb5DQ_18
+    400232: IfcSlab_Floor:Generic-900mm:586351_0GhCXPFTr35eNRAOwOXnfF
+    400234: IfcSlab_Floor:Generic-900mm:586351_0GhCXPFTr35eNRAOwOXnfF_15
+    400236: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585844_153J7VGuD6aflad0arw7ER
+    400238: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585844_153J7VGuD6aflad0arw7ER_11
+    400240: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585914_153J7VGuD6aflad0arw7DL
+    400242: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585914_153J7VGuD6aflad0arw7DL_12
+    400244: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585968_153J7VGuD6aflad0arw7CV
+    400246: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585968_153J7VGuD6aflad0arw7CV_13
+    400248: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):586063_153J7VGuD6aflad0arw7AW
+    400250: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):586063_153J7VGuD6aflad0arw7AW_14
+    400252: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):592946_2brey9XW15JOm6hZFdOrmo
+    400254: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):592946_2brey9XW15JOm6hZFdOrmo_4
+    400256: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593011_2brey9XW15JOm6hZFdOrnp
+    400258: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593011_2brey9XW15JOm6hZFdOrnp_5
+    400260: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593079_2brey9XW15JOm6hZFdOrot
+    400262: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593079_2brey9XW15JOm6hZFdOrot_6
+    400264: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593140_2brey9XW15JOm6hZFdOrpq
+    400266: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593140_2brey9XW15JOm6hZFdOrpq_7
+    400268: IfcWallStandardCase_BasicWall:SHADE:615789_3WQi_iuKvBXO3W5bnp5yrZ
+    400270: IfcWallStandardCase_BasicWall:SHADE:615789_3WQi_iuKvBXO3W5bnp5yrZ_3
+    400272: IfcWallStandardCase_BasicWall:SHADE:616086_3WQi_iuKvBXO3W5bnp5ywO
+    400274: IfcWallStandardCase_BasicWall:SHADE:616086_3WQi_iuKvBXO3W5bnp5ywO_3
+    400276: IfcWallStandardCase_BasicWall:SHADE:616451_3WQi_iuKvBXO3W5bnp5y0D
+    400278: IfcWallStandardCase_BasicWall:SHADE:616451_3WQi_iuKvBXO3W5bnp5y0D_3
+    400280: IfcWallStandardCase_BasicWall:SHADE:616483_3WQi_iuKvBXO3W5bnp5y0j
+    400282: IfcWallStandardCase_BasicWall:SHADE:616483_3WQi_iuKvBXO3W5bnp5y0j_3
+    400284: IfcWindow_Single-Light:12x12M2:586165_153J7VGuD6aflad0arw79Q
+    400286: IfcWindow_Single-Light:12x12M2:586302_153J7VGuD6aflad0arw77H
+    400288: IfcWindow_Single-Light:12x12M2:588098_23RU5KWTH9A8BtCMIHDLt_
+    400290: IfcWindow_Single-Light:12x12M2:588249_23RU5KWTH9A8BtCMIHDLrb
+    400292: IfcWindow_Single-Light:12x12M2:588371_23RU5KWTH9A8BtCMIHDLxl
+    400294: IfcWindow_Single-Light:12x12M2:588451_23RU5KWTH9A8BtCMIHDLuV
+    400296: IfcWindow_Single-Light:12x12M2:590067_2W_xzM4OD3heBG3D$QxNkQ
+    400298: IfcWindow_Single-Light:12x12M2:590068_2W_xzM4OD3heBG3D$QxNkT
+    400300: IfcWindow_Single-Light:12x12M2:590069_2W_xzM4OD3heBG3D$QxNkS
+    400302: IfcWindow_Single-Light:12x12M2:590070_2W_xzM4OD3heBG3D$QxNkV
+    400304: IfcWindow_Single-Light:12x12M2:590071_2W_xzM4OD3heBG3D$QxNkU
+    400306: IfcWindow_Single-Light:12x12M2:590072_2W_xzM4OD3heBG3D$QxNkH
+    2300000: IfcMappedItem_0
+    2300002: IfcMappedItem_0 1
+    2300004: IfcMappedItem_0 10
+    2300006: IfcMappedItem_0 11
+    2300008: IfcMappedItem_0 2
+    2300010: IfcMappedItem_0 3
+    2300012: IfcMappedItem_0 4
+    2300014: IfcMappedItem_0 5
+    2300016: IfcMappedItem_0 6
+    2300018: IfcMappedItem_0 7
+    2300020: IfcMappedItem_0 8
+    2300022: IfcMappedItem_0 9
+    2300024: IfcMappedItem_1
+    2300026: IfcMappedItem_1 1
+    2300028: IfcMappedItem_1 10
+    2300030: IfcMappedItem_1 11
+    2300032: IfcMappedItem_1 2
+    2300034: IfcMappedItem_1 3
+    2300036: IfcMappedItem_1 4
+    2300038: IfcMappedItem_1 5
+    2300040: IfcMappedItem_1 6
+    2300042: IfcMappedItem_1 7
+    2300044: IfcMappedItem_1 8
+    2300046: IfcMappedItem_1 9
+    2300048: IfcMappedItem_10
+    2300050: IfcMappedItem_2
+    2300052: IfcMappedItem_2 1
+    2300054: IfcMappedItem_2 10
+    2300056: IfcMappedItem_2 11
+    2300058: IfcMappedItem_2 2
+    2300060: IfcMappedItem_2 3
+    2300062: IfcMappedItem_2 4
+    2300064: IfcMappedItem_2 5
+    2300066: IfcMappedItem_2 6
+    2300068: IfcMappedItem_2 7
+    2300070: IfcMappedItem_2 8
+    2300072: IfcMappedItem_2 9
+    2300074: IfcMappedItem_8
+    2300076: IfcMappedItem_9
+    2300078: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0erw7A1_20
+    2300080: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0irw7A1_19
+    2300082: IfcSlab_Floor:Generic-200mm(Interior)2:595994_1Ffd5Ql_zDBgSWuGw1g0E9_16
+    2300084: IfcSlab_Floor:Generic-200mm(Interior)2:596186_1nnKgT9R95oRthT$xfRHAY_17
+    2300086: IfcSlab_Floor:Generic-200mm(Interior)2:599254_1fxxwNrWf4ue$hTbqVb5DQ_18
+    2300088: IfcSlab_Floor:Generic-900mm:586351_0GhCXPFTr35eNRAOwOXnfF_15
+    2300090: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585844_153J7VGuD6aflad0arw7ER_11
+    2300092: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585914_153J7VGuD6aflad0arw7DL_12
+    2300094: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585968_153J7VGuD6aflad0arw7CV_13
+    2300096: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):586063_153J7VGuD6aflad0arw7AW_14
+    2300098: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):592946_2brey9XW15JOm6hZFdOrmo_4
+    2300100: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593011_2brey9XW15JOm6hZFdOrnp_5
+    2300102: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593079_2brey9XW15JOm6hZFdOrot_6
+    2300104: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593140_2brey9XW15JOm6hZFdOrpq_7
+    2300106: IfcWallStandardCase_BasicWall:SHADE:615789_3WQi_iuKvBXO3W5bnp5yrZ_3
+    2300108: IfcWallStandardCase_BasicWall:SHADE:616086_3WQi_iuKvBXO3W5bnp5ywO_3
+    2300110: IfcWallStandardCase_BasicWall:SHADE:616451_3WQi_iuKvBXO3W5bnp5y0D_3
+    2300112: IfcWallStandardCase_BasicWall:SHADE:616483_3WQi_iuKvBXO3W5bnp5y0j_3
+    3300000: IfcMappedItem_0
+    3300002: IfcMappedItem_0 1
+    3300004: IfcMappedItem_0 10
+    3300006: IfcMappedItem_0 11
+    3300008: IfcMappedItem_0 2
+    3300010: IfcMappedItem_0 3
+    3300012: IfcMappedItem_0 4
+    3300014: IfcMappedItem_0 5
+    3300016: IfcMappedItem_0 6
+    3300018: IfcMappedItem_0 7
+    3300020: IfcMappedItem_0 8
+    3300022: IfcMappedItem_0 9
+    3300024: IfcMappedItem_1
+    3300026: IfcMappedItem_1 1
+    3300028: IfcMappedItem_1 10
+    3300030: IfcMappedItem_1 11
+    3300032: IfcMappedItem_1 2
+    3300034: IfcMappedItem_1 3
+    3300036: IfcMappedItem_1 4
+    3300038: IfcMappedItem_1 5
+    3300040: IfcMappedItem_1 6
+    3300042: IfcMappedItem_1 7
+    3300044: IfcMappedItem_1 8
+    3300046: IfcMappedItem_1 9
+    3300048: IfcMappedItem_10
+    3300050: IfcMappedItem_2
+    3300052: IfcMappedItem_2 1
+    3300054: IfcMappedItem_2 10
+    3300056: IfcMappedItem_2 11
+    3300058: IfcMappedItem_2 2
+    3300060: IfcMappedItem_2 3
+    3300062: IfcMappedItem_2 4
+    3300064: IfcMappedItem_2 5
+    3300066: IfcMappedItem_2 6
+    3300068: IfcMappedItem_2 7
+    3300070: IfcMappedItem_2 8
+    3300072: IfcMappedItem_2 9
+    3300074: IfcMappedItem_8
+    3300076: IfcMappedItem_9
+    3300078: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0erw7A1_20
+    3300080: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0irw7A1_19
+    3300082: IfcSlab_Floor:Generic-200mm(Interior)2:595994_1Ffd5Ql_zDBgSWuGw1g0E9_16
+    3300084: IfcSlab_Floor:Generic-200mm(Interior)2:596186_1nnKgT9R95oRthT$xfRHAY_17
+    3300086: IfcSlab_Floor:Generic-200mm(Interior)2:599254_1fxxwNrWf4ue$hTbqVb5DQ_18
+    3300088: IfcSlab_Floor:Generic-900mm:586351_0GhCXPFTr35eNRAOwOXnfF_15
+    3300090: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585844_153J7VGuD6aflad0arw7ER_11
+    3300092: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585914_153J7VGuD6aflad0arw7DL_12
+    3300094: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585968_153J7VGuD6aflad0arw7CV_13
+    3300096: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):586063_153J7VGuD6aflad0arw7AW_14
+    3300098: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):592946_2brey9XW15JOm6hZFdOrmo_4
+    3300100: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593011_2brey9XW15JOm6hZFdOrnp_5
+    3300102: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593079_2brey9XW15JOm6hZFdOrot_6
+    3300104: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593140_2brey9XW15JOm6hZFdOrpq_7
+    3300106: IfcWallStandardCase_BasicWall:SHADE:615789_3WQi_iuKvBXO3W5bnp5yrZ_3
+    3300108: IfcWallStandardCase_BasicWall:SHADE:616086_3WQi_iuKvBXO3W5bnp5ywO_3
+    3300110: IfcWallStandardCase_BasicWall:SHADE:616451_3WQi_iuKvBXO3W5bnp5y0D_3
+    3300112: IfcWallStandardCase_BasicWall:SHADE:616483_3WQi_iuKvBXO3W5bnp5y0j_3
+    4300000: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):592946_2brey9XW15JOm6hZFdOrmo_4
+    4300002: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593011_2brey9XW15JOm6hZFdOrnp_5
+    4300004: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593079_2brey9XW15JOm6hZFdOrot_6
+    4300006: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):593140_2brey9XW15JOm6hZFdOrpq_7
+    4300008: IfcMappedItem_8
+    4300010: IfcMappedItem_9
+    4300012: IfcMappedItem_10
+    4300014: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585844_153J7VGuD6aflad0arw7ER_11
+    4300016: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585914_153J7VGuD6aflad0arw7DL_12
+    4300018: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):585968_153J7VGuD6aflad0arw7CV_13
+    4300020: IfcWallStandardCase_BasicWall:Generic-400mm(Exterior):586063_153J7VGuD6aflad0arw7AW_14
+    4300022: IfcMappedItem_0
+    4300024: IfcMappedItem_1
+    4300026: IfcMappedItem_2
+    4300028: IfcSlab_Floor:Generic-900mm:586351_0GhCXPFTr35eNRAOwOXnfF_15
+    4300030: IfcWallStandardCase_BasicWall:SHADE:615789_3WQi_iuKvBXO3W5bnp5yrZ_3
+    4300032: IfcWallStandardCase_BasicWall:SHADE:616483_3WQi_iuKvBXO3W5bnp5y0j_3
+    4300034: IfcSlab_Floor:Generic-200mm(Interior)2:595994_1Ffd5Ql_zDBgSWuGw1g0E9_16
+    4300036: IfcSlab_Floor:Generic-200mm(Interior)2:596186_1nnKgT9R95oRthT$xfRHAY_17
+    4300038: IfcSlab_Floor:Generic-200mm(Interior)2:599254_1fxxwNrWf4ue$hTbqVb5DQ_18
+    4300040: IfcWallStandardCase_BasicWall:SHADE:616086_3WQi_iuKvBXO3W5bnp5ywO_3
+    4300042: IfcWallStandardCase_BasicWall:SHADE:616451_3WQi_iuKvBXO3W5bnp5y0D_3
+    4300044: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0irw7A1_19
+    4300046: IfcSlab_BasicRoof:Generic-500mm:586094_153J7VGuD6aflad0erw7A1_20
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
